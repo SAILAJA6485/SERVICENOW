@@ -224,11 +224,6 @@ This project successfully delivers a fully automated network request lifecycle, 
 ✔️ Professional **README + update set + screenshots** for verification.  
 
 ---
-
-## 👨‍💻 Author
-**N.SUMODA SUBRAMANI**  
-* MERN Stack Developer | ServiceNow Enthusiast | Cyber security *  
-🔗 [LinkedIn](www.linkedin.com/in/sumoda-subramani-narava/) | 🔗 [GitHub]([https://github.com/geethsreetham](https://github.com/SumodaSubramani))  
 =======
 ### 1. Import Update Set
 - Navigate to **System Update Sets > Retrieved Update Sets**.  
